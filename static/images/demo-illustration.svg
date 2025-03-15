@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="400" viewBox="0 0 500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Elements -->
+  <circle cx="250" cy="200" r="150" fill="#EEF2FF" fill-opacity="0.5"/>
+  <circle cx="350" cy="120" r="60" fill="#C7D2FE" fill-opacity="0.5"/>
+  <circle cx="150" cy="280" r="70" fill="#DDD6FE" fill-opacity="0.5"/>
+  
+  <!-- Person -->
+  <circle cx="200" cy="140" r="40" fill="#4F46E5"/>
+  <path d="M160 230C160 196.863 186.863 170 220 170H240C273.137 170 300 196.863 300 230V280H160V230Z" fill="#4F46E5"/>
+  
+  <!-- Tablet/Screen -->
+  <rect x="260" y="130" width="120" height="160" rx="10" fill="#1F2937"/>
+  <rect x="270" y="140" width="100" height="130" rx="5" fill="#F9FAFB"/>
+  
+  <!-- Screen Content -->
+  <rect x="280" y="150" width="80" height="10" rx="2" fill="#4F46E5"/>
+  <rect x="280" y="170" width="60" height="5" rx="2" fill="#9CA3AF"/>
+  <rect x="280" y="185" width="80" height="5" rx="2" fill="#9CA3AF"/>
+  <rect x="280" y="200" width="70" height="5" rx="2" fill="#9CA3AF"/>
+  
+  <!-- Form Elements -->
+  <rect x="280" y="220" width="80" height="15" rx="3" stroke="#4F46E5" stroke-width="1"/>
+  <rect x="280" y="245" width="80" height="15" rx="3" stroke="#4F46E5" stroke-width="1"/>
+  
+  <!-- Submit Button -->
+  <rect x="320" y="270" width="40" height="10" rx="5" fill="#10B981"/>
+  
+  <!-- Hand -->
+  <path d="M240 200C240 200 225 210 220 230C215 250 220 270 220 270" stroke="#1F2937" stroke-width="8" stroke-linecap="round"/>
+  <path d="M220 270L180 270" stroke="#1F2937" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Speech Bubble -->
+  <path d="M120 120C120 109.507 128.507 101 139 101H191C201.493 101 210 109.507 210 120V150C210 160.493 201.493 169 191 169H139C128.507 169 120 160.493 120 150V120Z" fill="white" stroke="#1F2937" stroke-width="2"/>
+  <path d="M130 169L140 185L150 169" fill="white"/>
+  <path d="M130 169L140 185L150 169" stroke="#1F2937" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Speech Bubble Content -->
+  <rect x="135" y="116" width="60" height="6" rx="2" fill="#4F46E5"/>
+  <rect x="135" y="128" width="50" height="6" rx="2" fill="#9CA3AF"/>
+  <rect x="135" y="140" width="55" height="6" rx="2" fill="#9CA3AF"/>
+  <rect x="135" y="152" width="40" height="6" rx="2" fill="#10B981"/>
+  
+  <!-- Connection Elements -->
+  <path d="M330 100C370 100 390 130 410 160" stroke="#4F46E5" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="420" cy="170" r="15" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2"/>
+  <path d="M410 230C450 230 470 260 390 290" stroke="#10B981" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="380" cy="300" r="15" fill="#DCFCE7" stroke="#10B981" stroke-width="2"/>
+  <path d="M110 210C70 210 50 180 130 150" stroke="#F97316" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="140" cy="140" r="15" fill="#FFEDD5" stroke="#F97316" stroke-width="2"/>
+</svg>

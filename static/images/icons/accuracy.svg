@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="12" fill="#EEF2FF"/>
+  <circle cx="30" cy="30" r="18" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="30" cy="30" r="12" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="30" cy="30" r="6" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="30" cy="30" r="2" fill="#4F46E5"/>
+  <path d="M30 12L30 15" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M30 45L30 48" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M48 30L45 30" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M15 30L12 30" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M42.4264 17.5736L40.3033 19.6967" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M19.6967 40.3033L17.5736 42.4264" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M42.4264 42.4264L40.3033 40.3033" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M19.6967 19.6967L17.5736 17.5736" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+</svg>

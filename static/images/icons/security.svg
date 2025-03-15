@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="12" fill="#EEF2FF"/>
+  
+  <!-- Shield -->
+  <path d="M30 48C30 48 44 40 44 28V16L30 12L16 16V28C16 40 30 48 30 48Z" stroke="#4F46E5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Lock -->
+  <rect x="23" y="24" width="14" height="12" rx="2" fill="#4F46E5" fill-opacity="0.2" stroke="#4F46E5" stroke-width="2"/>
+  <path d="M25 24V20C25 17.7909 27.2386 16 30 16C32.7614 16 35 17.7909 35 20V24" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Keyhole -->
+  <circle cx="30" cy="30" r="2" fill="#4F46E5"/>
+  <path d="M30 32L30 34" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+</svg>
